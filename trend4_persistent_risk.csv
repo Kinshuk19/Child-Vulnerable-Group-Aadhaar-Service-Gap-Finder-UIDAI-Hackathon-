@@ -1,0 +1,200 @@
+state,district,avg_risk_score,total_months,high_risk_months,persistence_pct
+Rajasthan,Salumbar,0.499362985985019,1,1,100.0
+Rajasthan,Beawar,0.499362985985019,1,1,100.0
+Rajasthan,Didwana-Kuchaman,0.4993247743652476,1,1,100.0
+Arunachal Pradesh,Anjaw,0.49924696765825394,4,4,100.0
+Daman And Diu,Daman,0.4990721631736288,4,4,100.0
+Daman And Diu,Diu,0.49901968792971774,4,4,100.0
+Mizoram,Serchhip,0.49892420156628337,4,4,100.0
+Maharashtra,Ahilyanagar,0.49890444654776156,1,1,100.0
+Manipur,Kakching,0.49882673096283375,4,4,100.0
+Ladakh,Leh,0.49873810305805855,4,4,100.0
+Chhattisgarh,Gaurela-Pendra-Marwahi,0.49868925599006597,4,4,100.0
+Lakshadweep,Lakshadweep,0.49829856269723527,4,4,100.0
+Andaman And Nicobar Islands,South Andaman,0.49825222752078424,4,4,100.0
+Chhattisgarh,Sarangarh-Bilaigarh,0.4981499980572581,4,4,100.0
+Chhattisgarh,Mohla-Manpur-Ambagarh Chouki,0.49802135594644426,4,4,100.0
+Telangana,Rangareddy,0.49772075876496297,4,4,100.0
+Puducherry,Karaikal,0.4973405864627801,4,4,100.0
+Andhra Pradesh,Parvathipuram Manyam,0.49662799789948675,4,4,100.0
+Andhra Pradesh,Bapatla,0.4965897219375107,4,4,100.0
+Andhra Pradesh,Anakapalli,0.49626193460378654,4,4,100.0
+Telangana,Warangal Urban,0.495953827590316,4,4,100.0
+Andhra Pradesh,Eluru,0.495868190994386,4,4,100.0
+Andhra Pradesh,Dr. B. R. Ambedkar Konaseema,0.4956760655505138,4,4,100.0
+Dadra And Nagar Haveli,Dadra And Nagar Haveli,0.4955946163738522,4,4,100.0
+Telangana,Warangal Rural,0.495391388184786,4,4,100.0
+Uttarakhand,Bageshwar,0.4953770931312655,4,4,100.0
+Andhra Pradesh,Y. S. R,0.494942452647766,4,4,100.0
+Uttarakhand,Champawat,0.4948066229814292,4,4,100.0
+Telangana,Rajanna Sircilla,0.4946008852192336,4,4,100.0
+Haryana,Charkhi Dadri,0.49459467937945556,4,4,100.0
+Andhra Pradesh,Palnadu,0.4944933136099488,4,4,100.0
+Jammu And Kashmir,Budgam,0.4944430479676396,4,4,100.0
+Andhra Pradesh,N. T. R,0.49430860735717763,4,4,100.0
+Andhra Pradesh,Nandyal,0.4941787543551158,4,4,100.0
+Andhra Pradesh,Sri Sathya Sai,0.49405043361977413,4,4,100.0
+Andhra Pradesh,Annamayya,0.49400396251349504,4,4,100.0
+Chhattisgarh,Kabeerdham,0.49394609826533564,4,4,100.0
+Telangana,Hanumakonda,0.4939434256043923,4,4,100.0
+Andhra Pradesh,Warangal,0.4938912649967443,4,4,100.0
+Andhra Pradesh,Kakinada,0.49387527646885027,4,4,100.0
+Pondicherry,Pondicherry,0.4938397659861855,4,4,100.0
+Telangana,Komaram Bheem,0.4937027625730611,4,4,100.0
+Andhra Pradesh,Khammam,0.49363547127517465,4,4,100.0
+Himachal Pradesh,Bilaspur,0.4936060678442893,4,4,100.0
+Karnataka,Hasan,0.49349474640422486,4,4,100.0
+Tamil Nadu,Tirupattur,0.49336565661381315,4,4,100.0
+Uttarakhand,Chamoli,0.49324364850106606,4,4,100.0
+Arunachal Pradesh,Upper Siang,0.4932043002535913,4,4,100.0
+Odisha,Jharsuguda,0.49318718053145383,4,4,100.0
+Punjab,Pathankot,0.49305158827748313,4,4,100.0
+Karnataka,Chikkamagaluru,0.4929846184325483,4,4,100.0
+Himachal Pradesh,Solan,0.4928663838131034,4,4,100.0
+Maharashtra,Sindhudurg,0.4928017737141832,4,4,100.0
+Telangana,Narayanpet,0.49264201020677595,4,4,100.0
+Uttarakhand,Uttarkashi,0.4925390944037309,4,4,100.0
+Himachal Pradesh,Hamirpur,0.4924646636368206,4,4,100.0
+Tamil Nadu,Tenkasi,0.492414972392402,4,4,100.0
+Himachal Pradesh,Una,0.4923799939081075,4,4,100.0
+Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,0.49233168905989466,4,4,100.0
+Karnataka,Kodagu,0.492290086786793,4,4,100.0
+Puducherry,Puducherry,0.49218392942015143,4,4,100.0
+Telangana,Nirmal,0.49213475036835735,4,4,100.0
+Telangana,Mancherial,0.49159042407455117,4,4,100.0
+Haryana,Panchkula,0.49133359885165934,4,4,100.0
+Goa,South Goa,0.4913302087211203,4,4,100.0
+Telangana,Jagitial,0.4907250476355185,4,4,100.0
+Himachal Pradesh,Sirmaur,0.4907014194066842,4,4,100.0
+Himachal Pradesh,Chamba,0.48988578121201387,4,4,100.0
+Chhattisgarh,Balod,0.4898529700701828,4,4,100.0
+Telangana,Jogulamba Gadwal,0.48980247639389396,4,4,100.0
+Telangana,Siddipet,0.4895270572575438,4,4,100.0
+Punjab,Ferozepur,0.4894304025175434,4,4,100.0
+Telangana,Kamareddy,0.48894026176253697,4,4,100.0
+Tamil Nadu,Kanyakumari,0.48857950080312884,4,4,100.0
+Chhattisgarh,Dhamtari,0.4883613637373041,4,4,100.0
+Tamil Nadu,Ranipet,0.4881025912507192,4,3,75.0
+Maharashtra,Bhandara,0.4879984729888551,4,4,100.0
+Maharashtra,Wardha,0.48788347240692603,4,4,100.0
+Tamil Nadu,Perambalur,0.4878432891883993,4,4,100.0
+Andhra Pradesh,Ananthapur,0.48777634554757143,4,4,100.0
+Chhattisgarh,Kawardha,0.4873056977332802,4,4,100.0
+Chandigarh,Chandigarh,0.48721606584091565,5,5,100.0
+Tamil Nadu,Kanniyakumari,0.4871668690173168,4,4,100.0
+Telangana,Wanaparthy,0.48705373860534645,4,4,100.0
+Karnataka,Bangalore Rural,0.48696321318356517,5,5,100.0
+Tamil Nadu,Ariyalur,0.48660276929352286,4,4,100.0
+Karnataka,Shivamogga,0.48654537062125713,4,4,100.0
+Andhra Pradesh,Alluri Sitharama Raju,0.485958678374637,4,3,75.0
+Haryana,Kaithal,0.4859182373617242,5,5,100.0
+Telangana,Vikarabad,0.4859165053183171,4,4,100.0
+Karnataka,Chickmagalur,0.48580755970605294,4,3,75.0
+Haryana,Rewari,0.48530410575339455,4,4,100.0
+Karnataka,Hassan,0.48511626607590685,4,4,100.0
+Himachal Pradesh,Mandi,0.4850772657447284,4,4,100.0
+Haryana,Ambala,0.4849025145088876,5,5,100.0
+Haryana,Jhajjar,0.4848348585563702,4,4,100.0
+Haryana,Rohtak,0.48427655448702733,5,5,100.0
+Haryana,Fatehabad,0.48422083555532724,4,4,100.0
+Chhattisgarh,Durg,0.48402145325406226,6,6,100.0
+Haryana,Mahendragarh,0.48366627111461813,4,4,100.0
+Maharashtra,Gondiya,0.48329701918639795,4,4,100.0
+Odisha,Debagarh,0.4825437315397555,4,3,75.0
+Punjab,Sri Muktsar Sahib,0.48249258871330936,4,3,75.0
+Karnataka,Tumkur,0.48214682585292806,4,4,100.0
+Karnataka,Tumakuru,0.48171182934021944,4,3,75.0
+Andhra Pradesh,Ananthapuramu,0.48137563639320824,4,4,100.0
+Maharashtra,Ratnagiri,0.4811588239214699,4,4,100.0
+Uttarakhand,Almora,0.4806362306866184,4,3,75.0
+Uttarakhand,Pauri Garhwal,0.4806130283369179,4,3,75.0
+Mizoram,Mamit,0.4805563672771356,4,3,75.0
+Karnataka,Udupi,0.4803147062799831,4,4,100.0
+Haryana,Sirsa,0.48002929845653897,4,4,100.0
+Haryana,Yamuna Nagar,0.47996579345933543,4,4,100.0
+Karnataka,Uttara Kannada,0.4797498147391796,4,4,100.0
+Manipur,Thoubal,0.47959946237158213,4,3,75.0
+Haryana,Bhiwani,0.479348276674979,4,4,100.0
+Gujarat,Narmada,0.47930540804423066,4,3,75.0
+Punjab,Rupnagar,0.4792116281301838,4,3,75.0
+Haryana,Sonipat,0.4787978346366689,5,4,80.0
+Tamil Nadu,Theni,0.47876615289979946,4,4,100.0
+Haryana,Jind,0.47828237326962997,4,4,100.0
+Karnataka,Mandya,0.4780318850038209,4,3,75.0
+Andhra Pradesh,Vizianagaram,0.47782254316107986,4,4,100.0
+Karnataka,Haveri *,0.4777425315878606,4,3,75.0
+Himachal Pradesh,Kangra,0.47771087555261127,4,4,100.0
+Karnataka,Gadag *,0.47702305875045947,4,3,75.0
+Jammu And Kashmir,Ganderbal,0.477013963638099,4,3,75.0
+Himachal Pradesh,Lahul And Spiti,0.47677658330136663,4,3,75.0
+Telangana,Jangoan,0.47633143829528013,4,3,75.0
+Haryana,Karnal,0.47633044246911904,4,3,75.0
+Himachal Pradesh,Shimla,0.47628211991379377,4,3,75.0
+Telangana,Peddapalli,0.4761896043260305,4,3,75.0
+Karnataka,Kolar,0.47589506295998846,4,3,75.0
+Andhra Pradesh,Srikakulam,0.4754179230158731,4,3,75.0
+Andhra Pradesh,Anantapur,0.47534400422158934,4,3,75.0
+Karnataka,Haveri,0.4751431808276144,4,3,75.0
+Punjab,Barnala,0.4749271247359069,4,3,75.0
+Telangana,Yadadri.,0.4742880889373907,4,3,75.0
+Telangana,Suryapet,0.47395185428602127,4,3,75.0
+Chhattisgarh,Sakti,0.47394975279937834,4,3,75.0
+Tamil Nadu,Namakkal,0.47372879881545316,4,4,100.0
+Jammu And Kashmir,Pulwama,0.47357122908857996,4,3,75.0
+Dadra And Nagar Haveli And Daman And Diu,Daman,0.4729172162214627,4,3,75.0
+Telangana,Mahabubabad,0.47234473375034597,4,3,75.0
+Uttarakhand,Pithoragarh,0.4704961587377007,4,3,75.0
+Telangana,Sangareddy,0.46959012460536936,4,3,75.0
+Karnataka,Mysore,0.4682613975157679,4,3,75.0
+Telangana,Nagarkurnool,0.46810297620446456,4,3,75.0
+Chhattisgarh,Bemetara,0.4669289957031283,4,3,75.0
+Karnataka,Chikkaballapur,0.4663953222416662,4,3,75.0
+Manipur,Imphal East,0.46630370333404175,4,3,75.0
+Andhra Pradesh,Nizamabad,0.4657744460423934,4,3,75.0
+Odisha,Sambalpur,0.4645899997192205,4,3,75.0
+Jammu And Kashmir,Samba,0.4634217574452042,4,3,75.0
+Himachal Pradesh,Kinnaur,0.4632085595067759,4,3,75.0
+Telangana,Adilabad,0.46287055060026244,4,3,75.0
+Kerala,Idukki,0.4627758145588308,4,3,75.0
+Karnataka,Gadag,0.4623814657285192,4,3,75.0
+Telangana,Jayashankar Bhupalpally,0.46233617193363286,4,3,75.0
+Odisha,Nayagarh,0.4622158679341454,4,3,75.0
+Karnataka,Chamrajanagar,0.462177029319748,4,3,75.0
+Orissa,Ganjam,0.4607106610254234,4,3,75.0
+Andhra Pradesh,Karimnagar,0.45963819809363526,4,3,75.0
+Andhra Pradesh,Rangareddi,0.45727135219459303,4,3,75.0
+Andhra Pradesh,Adilabad,0.4570928274732815,4,3,75.0
+Telangana,Warangal,0.45650015486601603,4,3,75.0
+Uttarakhand,Rudraprayag,0.45510013040068087,4,3,75.0
+Karnataka,Chamrajnagar,0.4533521784045873,4,3,75.0
+Odisha,Sonapur,0.4530609496969363,4,3,75.0
+Odisha,Gajapati,0.45140232950071013,4,3,75.0
+Andhra Pradesh,Medak,0.4510814736575909,4,3,75.0
+Odisha,Kandhamal,0.44738382483541644,4,3,75.0
+Odisha,Angul,0.4472969434912986,4,3,75.0
+Madhya Pradesh,Pandhurna,0.44655398340064534,4,3,75.0
+Telangana,Medchal−Malkajgiri,0.44649693116264133,4,3,75.0
+Andhra Pradesh,Nalgonda,0.44576096286076394,4,3,75.0
+Karnataka,Ballari,0.44564581037821355,4,3,75.0
+Odisha,Dhenkanal,0.4454114028406853,4,3,75.0
+Odisha,Boudh,0.4450591250540422,4,3,75.0
+Sikkim,North,0.4449157694925377,4,3,75.0
+Maharashtra,Mumbai City,0.4428835623442392,4,3,75.0
+Odisha,Jagatsinghapur,0.4423705410698057,4,3,75.0
+Odisha,Jajapur,0.4423113217377874,4,3,75.0
+Maharashtra,Gadchiroli,0.4414322863986913,4,3,75.0
+Odisha,Sundergarh,0.44068583669436845,4,3,75.0
+Mizoram,Kolasib,0.4386941539285155,5,4,80.0
+Odisha,Malkangiri,0.4385244038163801,4,3,75.0
+Odisha,Nuapada,0.43779879713325065,4,3,75.0
+Manipur,Senapati,0.43722574553521754,4,3,75.0
+Odisha,Rayagada,0.43661662655414774,4,3,75.0
+Tamil Nadu,Kallakurichi,0.4350089307313102,5,4,80.0
+Tamil Nadu,Chengalpattu,0.434505101627183,5,4,80.0
+Himachal Pradesh,Kullu,0.43439469706769174,5,4,80.0
+Telangana,Khammam,0.43327672264759887,4,3,75.0
+Haryana,Kurukshetra,0.4288886791761568,5,4,80.0
+Haryana,Panipat,0.4277628286029916,6,5,83.33
+Karnataka,Ramanagar,0.42769354667712645,4,3,75.0
+Tamil Nadu,Ramanathapuram,0.4221589769277573,5,4,80.0
+Telangana,Medchal-Malkajgiri,0.42056205953804326,5,4,80.0
