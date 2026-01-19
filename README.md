@@ -108,6 +108,7 @@ Average drop-off ratio: 0.25 (only 25% of enrolled children have biometric updat
 Implication: 50M+ children lack usable Aadhaar for banking, welfare access.
 
 
+
 Trend 3: Correction Pressure
 
 High-pressure districts: 100+ districts with >30% correction rate
@@ -117,11 +118,13 @@ Top state: Bihar (avg correction pressure 0.42)
 Implication: Systemic data quality or process issues; operators need retraining.
 
 
+
 Trend 5: Seasonality
 
 Peak season: April–June (school admissions; 40% above average)
 
 Opportunity: Schedule 80% of annual child biometric camps during April–June.
+
 
 
 Trend 6: Fairness
@@ -146,6 +149,8 @@ By CSI Category
    
    (iv)Quarterly performance monitoring
 
+   
+
 [2] At-Risk Districts (CSI 0.3–0.6)
 
    (i)Seasonal camps (April–June, November)
@@ -156,6 +161,8 @@ By CSI Category
     
    (iv)3-monthly reassessment
 
+   
+
 [3] Performing & Excellent Districts:
 
    (i)Document best practices
@@ -163,6 +170,8 @@ By CSI Category
    (ii)Assign as mentors to lower-CSI districts
     
    (iii)Annual audits
+
+   
 
 National Initiatives
 
@@ -174,11 +183,15 @@ National Initiatives
     
    (iii)Partner with state education departments
 
+   
+
 [2] Fairness Initiative:
 
    (i)Monitor child-to-adult update ratios monthly
     
    (ii)Set state-level targets: child update share ≥80% of enrolment share
+
+   
 
 [3] Seasonal Planning:
 
