@@ -199,3 +199,24 @@ National Initiatives
     
    (ii)Conduct off-season community awareness drives
 
+
+📜 License
+This project is shared for the UIDAI Data Hackathon 2026. Rights to commercialize or redistribute require prior written consent.
+
+🙏 Acknowledgments
+UIDAI for providing open Aadhaar data
+
+Data.gov.in for dataset hosting
+
+Hackathon Organizers for this opportunity
+
+Mentor & Jury Members for guidance
+
+📚 References
+UIDAI Annual Reports (2022–2025)
+
+Aadhaar Enrolment & Update Data Documentation
+
+Indian Census 2021 (demographic context)
+
+School Education Statistics (seasonal patterns)
