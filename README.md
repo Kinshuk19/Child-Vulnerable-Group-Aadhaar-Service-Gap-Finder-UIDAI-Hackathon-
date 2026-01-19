@@ -107,6 +107,7 @@ Average drop-off ratio: 0.25 (only 25% of enrolled children have biometric updat
 
 Implication: 50M+ children lack usable Aadhaar for banking, welfare access.
 
+
 Trend 3: Correction Pressure
 
 High-pressure districts: 100+ districts with >30% correction rate
@@ -115,11 +116,13 @@ Top state: Bihar (avg correction pressure 0.42)
 
 Implication: Systemic data quality or process issues; operators need retraining.
 
+
 Trend 5: Seasonality
 
 Peak season: April–June (school admissions; 40% above average)
 
 Opportunity: Schedule 80% of annual child biometric camps during April–June.
+
 
 Trend 6: Fairness
 
@@ -143,43 +146,43 @@ By CSI Category
    
    (iv)Quarterly performance monitoring
 
-[2] At-Risk Districts (CSI 0.3–0.6):
+[2] At-Risk Districts (CSI 0.3–0.6)
 
-    (i)Seasonal camps (April–June, November)
+   (i)Seasonal camps (April–June, November)
     
-    (ii)Community awareness campaigns
+   (ii)Community awareness campaigns
+   
+   (iii)Data quality audits
     
-    (iii)Data quality audits
-    
-    (iv)3-monthly reassessment
+   (iv)3-monthly reassessment
 
 [3] Performing & Excellent Districts:
 
-    (i)Document best practices
+   (i)Document best practices
     
-    (ii)Assign as mentors to lower-CSI districts
+   (ii)Assign as mentors to lower-CSI districts
     
-    (iii)Annual audits
+   (iii)Annual audits
 
 National Initiatives
 
 [1] Child Biometric Campaign (6-month):
 
-    (i)Target: 50M children aged 5–17 lacking biometric data
+   (i)Target: 50M children aged 5–17 lacking biometric data
     
-    (ii)Invest in mobile MBU vans for 50 critical districts
+   (ii)Invest in mobile MBU vans for 50 critical districts
     
-    (iii)Partner with state education departments
+   (iii)Partner with state education departments
 
 [2] Fairness Initiative:
 
-    (i)Monitor child-to-adult update ratios monthly
+   (i)Monitor child-to-adult update ratios monthly
     
-    (ii)Set state-level targets: child update share ≥80% of enrolment share
+   (ii)Set state-level targets: child update share ≥80% of enrolment share
 
 [3] Seasonal Planning:
 
-    (i)Pre-position resources 2 months before peak seasons
+   (i)Pre-position resources 2 months before peak seasons
     
-    (ii)Conduct off-season community awareness drives
+   (ii)Conduct off-season community awareness drives
 
